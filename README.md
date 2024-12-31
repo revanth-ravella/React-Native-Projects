@@ -57,9 +57,9 @@
 <h3 align="left">Project-2</h3>
 <h4 align="left">Modern Scanner</h3>
 <p align="center">
-  <img src="https://github.com/revanth-ravella/React-Native-Projects/blob/4842e402d2b483a3cbbb4f95919a7e4da2a64cd1/Project-2/Img-1" alt="image 2" width="200" />
-  <img src="https://github.com/revanth-ravella/React-Native-Projects/blob/4842e402d2b483a3cbbb4f95919a7e4da2a64cd1/Project-2/Img-2" alt="image 3" width="200" />
-  <img src="https://github.com/revanth-ravella/React-Native-Projects/blob/4842e402d2b483a3cbbb4f95919a7e4da2a64cd1/Project-2/Img-3" alt="image 4" width="200" />
+  <img src="https://github.com/revanth-ravella/React-Native-Projects/blob/3f5c6512270312ddd2170e1b74957f832dc13c28/Project-2/Img-1.png" alt="image 2" width="200" />
+  <img src="https://github.com/revanth-ravella/React-Native-Projects/blob/3f5c6512270312ddd2170e1b74957f832dc13c28/Project-2/Img-2.png" alt="image 3" width="200" />
+  <img src="https://github.com/revanth-ravella/React-Native-Projects/blob/3f5c6512270312ddd2170e1b74957f832dc13c28/Project-2/Img-3.png" alt="image 4" width="200" />
 </p>
 
 
