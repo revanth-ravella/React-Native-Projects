@@ -45,7 +45,5 @@
     </a> &emsp;
 </p>
 
-
-<h3 align="left">Project-1</h3>
 ![GPA Calculator - Image 7](https://github.com/revanth-ravella/GPA-Calculator/blob/8fedf448efa060292743b7bd9526da9133e8fd30/Demo/Img-7.png)
 ![image alt] (https://github.com/revanth-ravella/React-Native-Projects/blob/312c26577224b990e4421bee54b0142343cd9cca/temp/Project-1.png)
