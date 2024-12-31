@@ -46,5 +46,6 @@
 </p>
 
 
-![image alt](https://github.com/revanth-ravella/Figma-Dashboard-Design/blob/693fe269939d275a8b5bdb6bb2b6f5d447183b15/img-4.png)
+<h3 align="left">Project-1</h3>
+![image alt](https://github.com/revanth-ravella/React-Native-Projects/blob/312c26577224b990e4421bee54b0142343cd9cca/temp/Project-1.png))
 
