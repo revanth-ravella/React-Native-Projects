@@ -46,5 +46,7 @@
 </p>
 
 <h3 align="left">Project-1</h3>
+<p align="center">
+  <img src="https://github.com/revanth-ravella/React-Native-Projects/blob/4842e402d2b483a3cbbb4f95919a7e4da2a64cd1/Project-1/Login.png" alt="image alt" width="400" />
+</p>
 
-![image alt](https://github.com/revanth-ravella/React-Native-Projects/blob/4842e402d2b483a3cbbb4f95919a7e4da2a64cd1/Project-1/Login.png)
