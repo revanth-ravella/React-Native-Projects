@@ -47,4 +47,4 @@
 
 <h3 align="left">Project-1</h3>
 
-![image alt](https://github.com/revanth-ravella/React-Native-Projects/blob/312c26577224b990e4421bee54b0142343cd9cca/temp/Project-1.png)
+![image alt](https://github.com/revanth-ravella/React-Native-Projects/blob/4842e402d2b483a3cbbb4f95919a7e4da2a64cd1/Project-1/Login.png)
