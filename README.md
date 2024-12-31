@@ -50,7 +50,7 @@
 <h4 align="left">Modern Dashboard</h3>
 <p align="left">
   <img src="https://github.com/revanth-ravella/React-Native-Projects/blob/031321cebd05dd63480f0e5d1ab74b4f041a9cc9/Project-3/Img-1.png" alt="image 2" width="200" />
-  <img src="https://github.com/revanth-ravella/React-Native-Projects/blob/031321cebd05dd63480f0e5d1ab74b4f041a9cc9/Project-2/Img-2.png" alt="image 3" width="200" />
+  <img src="https://github.com/revanth-ravella/React-Native-Projects/blob/031321cebd05dd63480f0e5d1ab74b4f041a9cc9/Project-3/Img-2.png" alt="image 3" width="200" />
 </p>
 
 <h3 align="left">Project-2</h3>
